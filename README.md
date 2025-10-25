@@ -44,6 +44,12 @@ Implemented two tuning methods using **cross-validation**:
   - Models: `LogisticRegression`, `DecisionTreeClassifier`
   - Optimization: `GridSearchCV`, `RandomizedSearchCV`
   - Evaluation: `accuracy_score`, `precision_score`, `recall_score`, `f1_score`
+ 
+# Dataset Information
+
+- Source: [Kaggle - Titanic Dataset](https://www.kaggle.com/datasets/yasserh/titanic-dataset)  
+- The dataset is **not uploaded** due to size constraints.  
+- You can download it directly from Kaggle and place it in your working directory.
 
 # How to Run
 
